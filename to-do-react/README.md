@@ -1,3 +1,8 @@
+Simple todo list app built by following tutorial video from Dev Ed, https://www.youtube.com/watch?v=pCA4qpQDZD8. 
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
