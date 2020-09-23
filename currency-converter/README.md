@@ -1,3 +1,8 @@
+Simple currency converter app built from tutorial video by Web Dev Simplified (https://www.youtube.com/watch?v=XN5elYWiSuw). Great practice with React and API calls, also really helped to see a different programmer using React to better understand different methods of achieving similar functionality
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
