@@ -1,3 +1,8 @@
+A simple Quiz game app built from a tutorial by KnowledgeHut (https://www.youtube.com/watch?v=aq-fCtg_gG4). 
+This tutorial helped reinforce topics such as: using React Hooks vs State Components, Building/Implementing a local API as opposed to a serverside API, use of ternary operators
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
