@@ -1,4 +1,4 @@
-https://www.youtube.com/watch?v=I2UBjN5ER4s
+More complex website build created from a tutorial by Brian Design (https://www.youtube.com/watch?v=I2UBjN5ER4s). Great help for working with state, props and multiple components as well as getting used to file structuring for medium sized projects. 
 
 
 
