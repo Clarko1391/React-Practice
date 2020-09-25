@@ -71,9 +71,47 @@ function Footer() {
                             TRVL <i className="fab fa-typo3"></i>
                         </Link>
                     </div>
-                    <small className="website-rights">TRVL @copy 2020</small>
+                    <small className="website-rights">TRVL © 2020</small>
                     <div className="social-icons">
-                        <Link className="social-icon-link"></Link>
+                        <Link 
+                            className="social-icon-link facebook"
+                            to='/'
+                            target='_blank'
+                            aria-label='Facebook'
+                        >
+                            <i className="fab fa-facebook-f"></i>
+                        </Link><Link 
+                            className="social-icon-link instagram"
+                            to='/'
+                            target='_blank'
+                            aria-label='Instagram'
+                        >
+                            <i className="fab fa-instagram"></i>
+                        </Link>
+                        <Link 
+                            className="social-icon-link youtube"
+                            to='/'
+                            target='_blaYoutube'
+                        >
+                            <i className="fab fa-youtube"></i>
+                        </Link>
+                        <Link 
+                            className="social-icon-link twitter"
+                            to='/'
+                            target='_blank'
+                            aria-label='Twitter'
+                        >
+                            <i className="fab fa-twitter"></i>
+                        </Link>
+                        <Link 
+                            className="social-icon-link linkedin"
+                            to='/'
+                            target='_blank'
+                            aria-label='linkedin'
+                        >
+                            <i className="fab fa-linkedin"></i>
+                        </Link>
+                        
                     </div>
                 </div>
             </section>
