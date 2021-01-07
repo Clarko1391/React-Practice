@@ -1,7 +1,6 @@
 Simple recipe lookup app built by following tutorial from Dev Ed (https://www.youtube.com/watch?v=U9T6YkEDkMo). This project combines react programming with some basic API call practice. API used can be found at www.edamam.com
 
-
-
+![Screen Cap](https://github.com/Clarko1391/React-Practice/blob/master/recipe-list-app/public/img/RecipeAppScreenCap.png)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
