@@ -2,6 +2,7 @@ This is the tutorial found in the React.js documentation at https://reactjs.org/
 
 This is a simple tic-tac-toe game which helped me better understand what state is, how it works, and what is allows us to do in the context of React applications.
 
+![Screen Cap](https://github.com/Clarko1391/React-Practice/blob/master/my-app/public/img/TicTacToeScreenCap.png)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
