@@ -1,7 +1,6 @@
 More complex website build created from a tutorial by Brian Design (https://www.youtube.com/watch?v=I2UBjN5ER4s). Great help for working with state, props and multiple components as well as getting used to file structuring for medium sized projects. 
 
-
-
+![Screen Cap](https://github.com/Clarko1391/React-Practice/blob/master/adventure-website/public/images/AdventureWebsiteScreenCap.png)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
