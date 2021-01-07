@@ -1,3 +1,8 @@
+THis project was built from a tutorial video by Programming with Mosh (https://www.youtube.com/watch?v=Ke90Tje7VS0). It doesn't look like much but is meant to represent an online store shopping cart that allows the user to add items, modify quantities, remove items and reset the cart entirely. It was a great tutorial for better understanding how state is moved and stored within a react app and how difficult it can be to manage medium-large projects by only lifting React state to parent components.
+
+This project requires NPM and can be cloned and run on your local machine if you would like to see an offline verson of it.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

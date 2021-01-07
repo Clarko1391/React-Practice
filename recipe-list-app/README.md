@@ -1,4 +1,4 @@
-Simple recipe lookup app built by following tutorial from Dev Ed (https://www.youtube.com/watch?v=U9T6YkEDkMo). This project combines react programming with some basic API cal practice. API used can be found at www.edamam.com
+Simple recipe lookup app built by following tutorial from Dev Ed (https://www.youtube.com/watch?v=U9T6YkEDkMo). This project combines react programming with some basic API call practice. API used can be found at www.edamam.com
 
 
 
